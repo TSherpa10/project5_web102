@@ -47,6 +47,10 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app.
 
+I had trouble with choosing a good API to start the project, but eventually settled on last week's homework API, catAPI (due to the ease of use + good amount of API calls for free users + good info.
+
+I also had a problem with making the side nav bar sticky.
+
 ## License
 
     Copyright [2023] [name of copyright owner]
